@@ -1,4 +1,4 @@
-# Politique et modèle de confidentialité
+# Politique de confidentialité
 
 ## Introduction
 
